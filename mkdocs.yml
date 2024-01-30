@@ -1,4 +1,4 @@
-site_name: Law
+site_name: LeeYeung
 
 theme:
   name: material
@@ -62,7 +62,7 @@ plugins:
       blog_toc: true
       post_date_format: full
 
-repo_url: https://github.com/LeeYeungYeung/LeeYeungYeung.git/
+repo_url: https://github.com/LeeYeungYeung/law.git
 repo_name: github
 
 extra:
